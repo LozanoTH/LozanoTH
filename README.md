@@ -1,4 +1,4 @@
-# 👋 Hola, soy Lozano Martínez (@OracleOS)  
+# 👋 Hola, soy Lozano Martínez (@Player name)  
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://ubuntu.com/)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://www.android.com/)
